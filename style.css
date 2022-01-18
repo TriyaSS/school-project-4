@@ -1,0 +1,25 @@
+body{
+    background-color: lightcyan;
+    text-align: center;
+}
+
+nav{
+   position: sticky;
+    top: 0;
+    z-index: 99999;
+    
+}
+
+li{
+    padding-top: 5px;
+    padding-right: 10px;
+       padding-left: 10px;
+    padding-bottom: 10px;
+     float: left;
+}
+ 
+ul{
+    list-style: none;
+}
+
+
